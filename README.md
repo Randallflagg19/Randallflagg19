@@ -1,6 +1,6 @@
 # Alexey Astashonok
 
-Fullstack Developer building fullstack applications from scratch: frontend, backend, and infrastructure.
+Fullstack Developer building production-ready web applications.
 
 🚀 Projects  
 - TableBooker — https://table-booker.ru/  
