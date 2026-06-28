@@ -1,6 +1,6 @@
 # Alexey Astashonok
 
-Fullstack Developer (Next.js / NestJS) building production-ready web applications
+Frontend / Fullstack Developer building React and Next.js applications
 
 ## 🚀 Projects
 - TableBooker — https://table-booker.ru/
